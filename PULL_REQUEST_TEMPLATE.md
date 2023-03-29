@@ -1,5 +1,10 @@
 Please make sure you have read [this document](https://www.notion.so/clockorg/Pull-Requests-71f982138c5b444ab088acdd6c256ac4) before proceeding.
 
+## Checks
+
+- [ ] Does this PR require a corresponding Backend / Frontend PR (link here)
+- [ ] Do these need going out simultaneously 
+
 ## Summary
 
 <!-- What was asked? Where was the requested posted? Any links to basecamp, productive, slack etc. are helpful to the reviewer to understand full context. -->
